@@ -2,7 +2,7 @@
 ## INTRODUCTION TO SOFTWARE ENGINEERING – LAB PRACTICES
 
 **Sinh viên:** Trần Thanh Hoàng  
-**MSSV:** (Điền mã số sinh viên của bạn)  
+**MSSV:** (K23DTCN476)  
 **GitHub:** [https://github.com/tranhoang1603](https://github.com/tranhoang1603)
 
 ---
